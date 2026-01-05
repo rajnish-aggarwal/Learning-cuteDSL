@@ -1,0 +1,7 @@
+cuda-bindings==13.1.1
+cuda-pathfinder==1.3.3
+cuda-python==13.1.1
+numpy==2.4.0
+nvidia-cuda-runtime==13.1.80
+nvidia-cutlass-dsl==4.3.4
+typing_extensions==4.15.0
